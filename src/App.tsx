@@ -795,7 +795,7 @@ export default function App() {
                   
                   {/* Luxury semi-transparent spa background image */}
                   <img
-                    src="./assets/images/spa_treatment_bg_1780762324001.png"
+                    src="https://github.com/websprintt/maria-ruz-beauty/raw/86341263218488cc2dfb2a44cbc1b0bf55a41d57/src/assets/images/spa_treatment_bg_1780762324001.png"
                     alt="Servicios de estética avanzada María Ruz"
                     className="absolute inset-0 w-full h-full object-cover opacity-80 pointer-events-none select-none mix-blend-normal"
                     referrerPolicy="no-referrer"
