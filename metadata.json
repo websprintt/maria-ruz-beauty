@@ -1,0 +1,6 @@
+{
+  "name": "Maria Ruz Beauty",
+  "description": "Premium landing page for Maria Ruz Beauty salon in Ciudad Real, offering specialized treatments like Hair Spa, professional massages, facial cleaning, and manicures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
